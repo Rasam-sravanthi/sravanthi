@@ -1,5 +1,5 @@
 # sravanthi
-                                                           # __<U>CURRICULUM VITAE</u>__
+# __<U>CURRICULUM VITAE</u>__
 ## __RASAM SRAVANTHI,__
 ## __STUDENT,__
 ## __COMPUTER SCIENCE AND DATA SCIENCE,__
